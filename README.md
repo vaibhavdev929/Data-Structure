@@ -1,8 +1,8 @@
-### DSA QUESTION LIST
+# DSA QUESTIONS LIST
 
 ## 1. ARRAY
 
-# Basic
+### Basic
 
 1. Check if the array is sorted or not.
 2. Find the largest number from the given array.
